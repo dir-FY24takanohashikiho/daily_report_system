@@ -1,10 +1,5 @@
 package actions.views;
 
-public class EmployeeConverter {
-
-}
-package actions.views;
-
 import java.util.ArrayList;
 import java.util.List;
 
